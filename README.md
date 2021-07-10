@@ -7,5 +7,5 @@ A repository of Jupyter notebooks for self-taught
 This assistant will provide a insight about the price based on zip code, number of bathrooms, bedrooms and garage.
 The web application can integrate by requesting the api.
 
-<kbd> <img src="https://user-images.githubusercontent.com/54214498/125176800-e5258d00-e1ac-11eb-8e54-874566050b8b.png" alt="Kitten"
-	title="A cute kitten" width="672" height="301"/>
+![rent](https://user-images.githubusercontent.com/54214498/125177931-53228200-e1b6-11eb-9ea6-a6af444eb2d4.jpg)
+
