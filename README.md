@@ -1,4 +1,4 @@
-# TensorFlow-Developer-Certificate 🚀
+# TensorFlow Developer Certificate 🚀
 A repository of Jupyter notebooks for self-taught
 
 📚 Potential Applications with Neural Network Regression
